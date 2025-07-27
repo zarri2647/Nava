@@ -117,6 +117,14 @@ now copy this code and paste it
 ```
 java main.java
 ```
+
+if you don't know where is your code
+
+please create a code and save it
+open any file manager 
+and find the directory of it
+now copy it and paste it on the folder you just created "nava folder"
+
 And also feel free to feedback me if you encounter some error's or not
 
 Question:
