@@ -12,7 +12,9 @@ pkg upgrade && pkg update
 ```
 termux-setup-storage
 ```
-4. Now go to your file manager or any file manager like Google files or ZArchiver, find download, once you found it, find the 7z called "nava.7z" and extract it and copy the folder called nava and go to document and the folder you just copy open it and paste it there. Now open termux again and copy this code, now enter.
+4. Now go to your file manager or any file manager like Google files or ZArchiver,
+now go to documents and create a folder called nava, next is go back and
+find download, once you found it, find the nava.sh and copy it and go to document and the folder you just create it open it and paste it there. Now open termux again and copy this code, now enter.
  ```
  cd ~/storage/documents/nava
  ```
