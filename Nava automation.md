@@ -102,10 +102,19 @@ And now is turn's on!!!!!!
 Now you are 
 good to go to execute javax.swing or JoptionPane
 
-But wait how do i execute my code?
-I give you an example later
-things are a little bit overlapping from it 😅😅😅😅
+but how do i execute my code
 
+open the terminal which you can find it on the bottom
+
+copy this code and paste it there
+```
+cd ~/storage/documents/nava
+```
+
+now copy this code and paste it
+```
+java main.java
+```
 And also feel free to feedback me if you encounter some error's or not
 
 Question:
