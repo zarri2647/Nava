@@ -125,6 +125,11 @@ open any file manager
 and find the directory of it
 now copy it and paste it on the folder you just created "nava folder"
 
+and now you execute the code 
+
+
+it can work on any language programming that has AWT
+
 And also feel free to feedback me if you encounter some error's or not
 
 Question:
