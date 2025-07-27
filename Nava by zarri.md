@@ -1,12 +1,12 @@
 1. click this link to download the apk
    https://f-droid.org/repo/com.termux_1022.apk
-   After you install it copy this.
+   After you install it copy this. and enter it on your termux
 ```
 pkg upgrade && pkg update
 ```
-1. click this link to download the shortcut.
-   https://drive.google.com/file/d/1kSwKmjqvPSvA4wLWLJm9tkMZNTHGIRxk/view?usp=drivesdk
-2. click this link to download rvnc
+2. download the package automation which is nava.sh
+
+3. click this link to download rvnc
    https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
    After it's install, open termux and copy this code, long press and then paste it. and next accept the permission this will access your phone storage but is symlinks.
 ```
