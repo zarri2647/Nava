@@ -6,4 +6,7 @@ also is fine for you to download the source code and edit it whatever you like b
 
 for safety i recommend student that you should use trusted source example this code. you should copy the link just for your safety.
 
+also it you found a similar code just like this please check the source code first or give it to ai this will detect if the shell is virus and contains malicious code on it
+please avoid executing code without knowing what does it do!
+
 also happy coding all students
