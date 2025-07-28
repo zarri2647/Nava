@@ -173,4 +173,4 @@ This will ask you to create a password
 Remember to note the password so you wouldn't forget it.
 
 ==Things i wouldn't recommend==
-Please don't try to download firefox and Chrome because it will kill the server automatically which i trying to find out to diagnose it and fix it!
+Please don't try to download firefox and Chrome because it will kill the server automatically.
