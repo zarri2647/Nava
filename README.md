@@ -1,6 +1,5 @@
 # Nava
-This documentation is for the students due to lack of computer access and laptop access due to some expensive laptop and pc and limited access for learners who
-wanted to learn how code works on pc and laptop
+This documentation is for the students who have lack of pc access and laptop access because of to expensive laptop and pc, and limited access for learners who actually wanted to learn how code works on pc and laptop and 
 also is fine for you to download the source code and edit it whatever you like but don't do such bad stuff, example like changing the code and adding malware on it.
 
 
