@@ -7,6 +7,7 @@ for safety i recommend student that you should use trusted source example this c
 
 also if you are a teacher please feel free to use this and shared it from your wonderful student 😄 
 
+also this only for Android phone
 
 also it you found a similar code just like this please check the source code first or give it to ai this will detect if the shell is virus and contains malicious code on it
 please avoid executing code without knowing what does it do!
