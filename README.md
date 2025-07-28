@@ -11,5 +11,8 @@ also this only for Android phone
 
 also it you found a similar code just like this please check the source code first or give it to ai this will detect if the shell is virus and contains malicious code on it
 please avoid executing code without knowing what does it do!
+and also avoid installing any hack from what you see on social media this for your own privacy and security because your symlinks is not safe from other package, for example if the package has malicious code that is connected to your symlinks that package is dangerous, so learn to prevent tricks from people who just make package or npm that has symlinks connection
+for example your dcim and downloads and pictures that contains sensitive to yours
+so prevent downloading malicious package without the license from MIT and Apache.
 
 also happy coding all students
