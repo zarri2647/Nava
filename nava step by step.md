@@ -12,7 +12,7 @@ pkg upgrade && pkg update
 termux-setup-storage
 ```
 4. Now go to your file manager or any file manager like Google files or ZArchiver,
-   now go to documents and create a folder called my java code.
+   now go to documents and create a folder called my_java_code.
 5. Now copy this code and open termux and paste it there and then enter
 ```
 cd ~/storage/downloads
@@ -115,7 +115,7 @@ open the terminal which you can find it on the bottom
 
 copy this code and paste it there
 ```
-cd ~/storage/documents/nava
+cd ~/storage/documents/my_java_code
 ```
 
 now copy this code and paste it
@@ -128,12 +128,12 @@ if you don't know where is your code
 please create a code and save it
 open any file manager 
 and find the directory of it
-now copy it and paste it on the folder you just created "my java code"
+now copy it and paste it on the folder you just created "my_java_code"
 
 and now you execute the code 
 
 
-it can work on any language programming that has AWT
+it can work on any programming language that has AWT
 
 And also feel free to feedback me if you encounter some error's or not
 
