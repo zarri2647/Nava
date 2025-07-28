@@ -9,7 +9,7 @@ if [[ "$confirm" == "y" || "$confirm" == "Y" ]]; then
     
     pkg install nano -y
 
-    echo "recommended and essestial package that are already inside java>
+    echo "recommended and essestial package that are already inside java"
 
     pkg install openjdk-21
     echo "recommended for executing code"
