@@ -54,29 +54,31 @@ chmod +x nava.sh
 
    Follow the on-screen instructions. It will download necessary packages. Say "yes" to all prompts. (Don't worry, you're not becoming a hacker; it's just downloading packages!)
    
-   12. Set Up VNC Server - Part 1:
+   11. Set Up VNC Server - Part 1:
    First, copy this command and paste it on termux
 ```
 cd
 ```
    Next, start the VNC server:
-   vncserver
+```
+vncserver
+```
 
    You will be prompted to create a password (maximum 8 characters). Choose a strong password like "XCATKANT" or something similar for your security. Important: Note down this password in a secure place (e.g., a notepad app) so you don't forget it.
    After verification, the server address will be displayed. It will typically be localhost:1. Copy this address.
    
-   13. Configure RealVNC Viewer:
+   12. Configure RealVNC Viewer:
    Open the RealVNC Viewer app you downloaded from the Play Store.
    Click the "plus" button.
    Paste the copied address (localhost:1) into the "Address" field.
    In the "Name" field, enter a descriptive name for your connection (e.g., "My Android PC" or "Termux VNC").
    Then, click "Add."
 
-  14. Open Termux and paste this command:
+  13. Open Termux and paste this command:
 ```
 chmod +x ~/.vnc/xstartup
 ```
-  15. Start VNC Server (Initial Connection):
+  14. Start VNC Server (Initial Connection):
    Paste this command into Termux and press Enter:
 ```
 vncserver
@@ -84,14 +86,14 @@ vncserver
    Now open RealVNC Viewer, click "Connect." You will be prompted to input the password you created (e.g., "XCATKANT").
 You might see a black screen. This is normal because the necessary desktop environment isn't fully configured yet.
 
-16. Kill VNC Server:
+15. Kill VNC Server:
    To prepare for the desktop environment setup, you need to stop the VNC server. In Termux, paste and enter the command:
 ```
 vncserver -kill :1
 ```
    This command shuts down the VNC server.
    
-   17. Configure VNC xstartup File:
+   16. Configure VNC xstartup File:
    Open Termux and paste this command:
 ```
 nano ~/.vnc/xstartup
@@ -104,7 +106,7 @@ startxfce4 &
 ```
    To exit the nano editor, press Ctrl + O (to save) and then Ctrl + X (to exit). (Refer to any video you're watching for a visual demonstration if needed.)
   
-  18. Restart VNC Server:
+  17. Restart VNC Server:
    Paste this command into Termux to turn on the server again:
    
 ```
