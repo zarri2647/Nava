@@ -52,7 +52,7 @@ chmod +x nava.sh
 ```
   10. run the command
 
-   Follow the on-screen instructions. It will download necessary packages. Say "yes" to all prompts. (Don't worry, you're not becoming a hacker; it's just downloading packages!)
+   Follow the on-screen instructions. It will download necessary packages. Say "yes" to all prompts. (surprise, you're look like a hacker; don't worry it's just downloading packages!)
    
    11. Set Up VNC Server - Part 1:
    First, copy this command and paste it on termux
